@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-practica/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-bootstrap-practica/static/js/main.815e1352.chunk.js",
+    "main.js.map": "/react-bootstrap-practica/static/js/main.815e1352.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap-practica/static/js/runtime-main.be4562fe.js",
+    "runtime-main.js.map": "/react-bootstrap-practica/static/js/runtime-main.be4562fe.js.map",
+    "static/js/2.e6b1785d.chunk.js": "/react-bootstrap-practica/static/js/2.e6b1785d.chunk.js",
+    "static/js/2.e6b1785d.chunk.js.map": "/react-bootstrap-practica/static/js/2.e6b1785d.chunk.js.map",
+    "index.html": "/react-bootstrap-practica/index.html",
+    "precache-manifest.d59e9a9fc7ece0fee9a6c0e8be5d63da.js": "/react-bootstrap-practica/precache-manifest.d59e9a9fc7ece0fee9a6c0e8be5d63da.js",
+    "service-worker.js": "/react-bootstrap-practica/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-bootstrap-practica/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6b1785d.chunk.js.LICENSE.txt": "/react-bootstrap-practica/static/js/2.e6b1785d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-bootstrap-practica/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be4562fe.js",
+    "static/js/2.e6b1785d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.815e1352.chunk.js"
+  ]
+}
